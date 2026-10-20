@@ -13,6 +13,8 @@ Some are tools I use. Others are experiments I'm still testing. The goal is to m
 <td colspan="2" valign="top">
 <h3>💬 <a href="https://github.com/limmieo/LimmiTalk">LimmiTalk</a></h3>
 <p><strong>Local Windows dictation I use every day.</strong></p>
+<p><a href="https://github.com/limmieo/LimmiTalk/blob/main/docs/images/workspace-dark.jpg"><img src="https://raw.githubusercontent.com/limmieo/LimmiTalk/main/docs/images/workspace-dark.jpg" alt="LimmiTalk dark dashboard with saved dictation, vocabulary, and GPU status; synthetic demo text and timing" width="900" /></a></p>
+<p><em>Screenshot uses synthetic example text and timing, not a recognition or speed benchmark.</em></p>
 <p>A lightweight <a href="https://github.com/nexos-1/localflow">LocalFlow</a> fork with CUDA Whisper, personal vocabulary, context hints and recoverable text.</p>
 <p>Hold <strong>Ctrl + Windows</strong>, speak, and release to put text into the app you're using. LimmiTalk runs in the tray and keeps speech processing on your PC.</p>
 <p>Python · Whisper / CUDA · SQLite · Windows</p>
