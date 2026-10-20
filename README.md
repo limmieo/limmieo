@@ -10,6 +10,16 @@ Some are tools I use. Others are experiments I'm still testing. The goal is to m
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+<h3>💬 <a href="https://github.com/limmieo/LimmiTalk">LimmiTalk</a></h3>
+<p><strong>Local Windows dictation I use every day.</strong></p>
+<p>A lightweight <a href="https://github.com/nexos-1/localflow">LocalFlow</a> fork with CUDA Whisper, personal vocabulary, context hints and recoverable text.</p>
+<p>Hold <strong>Ctrl + Windows</strong>, speak, and release to put text into the app you're using. LimmiTalk runs in the tray and keeps speech processing on your PC.</p>
+<p>Python · Whisper / CUDA · SQLite · Windows</p>
+<a href="https://github.com/limmieo/LimmiTalk">Explore the project →</a>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3>🎙️ <a href="https://github.com/limmieo/LocalScribe">LocalScribe</a></h3>
 <p><strong>Turn recordings into material you can work with.</strong></p>
@@ -79,3 +89,4 @@ An independent fork adding optional background receiving, incoming-request alert
 I'm open to conversations about creator tools, local AI and practical Android utilities. [Connect on LinkedIn](https://www.linkedin.com/in/tonydestin/).
 
 <sub>Project status and licensing vary. See each repository for setup, test coverage and usage terms.</sub>
+
